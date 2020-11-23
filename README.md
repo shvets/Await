@@ -1,2 +1,3 @@
 # Await
-Library for simulation await operation
+
+A description of this package.
